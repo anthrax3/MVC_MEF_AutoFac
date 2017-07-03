@@ -1,0 +1,9 @@
+D:\Prady\RoughPad\Approach1\Core\Approach1.Core.Data\bin\Debug\Approach1.Core.Data.dll
+D:\Prady\RoughPad\Approach1\Core\Approach1.Core.Data\bin\Debug\Approach1.Core.Data.pdb
+D:\Prady\RoughPad\Approach1\Core\Approach1.Core.Data\obj\Debug\Approach1.Core.Data.csprojResolveAssemblyReference.cache
+D:\Prady\RoughPad\Approach1\Core\Approach1.Core.Data\obj\Debug\Approach1.Core.Data.dll
+D:\Prady\RoughPad\Approach1\Core\Approach1.Core.Data\obj\Debug\Approach1.Core.Data.pdb
+D:\Prady\RoughPad\Approach1\Core\Approach1.Core.Data\bin\Debug\Approach1.Infrastructure.Data.dll
+D:\Prady\RoughPad\Approach1\Core\Approach1.Core.Data\bin\Debug\EntityFramework.dll
+D:\Prady\RoughPad\Approach1\Core\Approach1.Core.Data\bin\Debug\Approach1.Infrastructure.Data.pdb
+D:\Prady\RoughPad\Approach1\Core\Approach1.Core.Data\bin\Debug\EntityFramework.xml

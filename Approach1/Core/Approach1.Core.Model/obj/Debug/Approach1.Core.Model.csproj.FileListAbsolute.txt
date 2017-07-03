@@ -1,0 +1,5 @@
+D:\Prady\RoughPad\Approach1\Core\Approach1.Core.Model\bin\Debug\Approach1.Core.Model.dll
+D:\Prady\RoughPad\Approach1\Core\Approach1.Core.Model\bin\Debug\Approach1.Core.Model.pdb
+D:\Prady\RoughPad\Approach1\Core\Approach1.Core.Model\obj\Debug\Approach1.Core.Model.csprojResolveAssemblyReference.cache
+D:\Prady\RoughPad\Approach1\Core\Approach1.Core.Model\obj\Debug\Approach1.Core.Model.dll
+D:\Prady\RoughPad\Approach1\Core\Approach1.Core.Model\obj\Debug\Approach1.Core.Model.pdb

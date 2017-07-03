@@ -1,0 +1,15 @@
+D:\Prady\RoughPad\Approach1\Infrastructure\Approach1.Infrastructure.Service\bin\Debug\Approach1.Infrastructure.Service.dll
+D:\Prady\RoughPad\Approach1\Infrastructure\Approach1.Infrastructure.Service\bin\Debug\Approach1.Infrastructure.Service.pdb
+D:\Prady\RoughPad\Approach1\Infrastructure\Approach1.Infrastructure.Service\obj\Debug\Approach1.Infrastructure.Service.csprojResolveAssemblyReference.cache
+D:\Prady\RoughPad\Approach1\Infrastructure\Approach1.Infrastructure.Service\obj\Debug\Approach1.Infrastructure.Service.dll
+D:\Prady\RoughPad\Approach1\Infrastructure\Approach1.Infrastructure.Service\obj\Debug\Approach1.Infrastructure.Service.pdb
+D:\Prady\RoughPad\Approach1\Infrastructure\Approach1.Infrastructure.Service\bin\Debug\Approach1.Core.Data.dll
+D:\Prady\RoughPad\Approach1\Infrastructure\Approach1.Infrastructure.Service\bin\Debug\Approach1.Core.Model.dll
+D:\Prady\RoughPad\Approach1\Infrastructure\Approach1.Infrastructure.Service\bin\Debug\Approach1.Core.Service.dll
+D:\Prady\RoughPad\Approach1\Infrastructure\Approach1.Infrastructure.Service\bin\Debug\Approach1.Infrastructure.Data.dll
+D:\Prady\RoughPad\Approach1\Infrastructure\Approach1.Infrastructure.Service\bin\Debug\EntityFramework.dll
+D:\Prady\RoughPad\Approach1\Infrastructure\Approach1.Infrastructure.Service\bin\Debug\Approach1.Core.Data.pdb
+D:\Prady\RoughPad\Approach1\Infrastructure\Approach1.Infrastructure.Service\bin\Debug\Approach1.Core.Model.pdb
+D:\Prady\RoughPad\Approach1\Infrastructure\Approach1.Infrastructure.Service\bin\Debug\Approach1.Core.Service.pdb
+D:\Prady\RoughPad\Approach1\Infrastructure\Approach1.Infrastructure.Service\bin\Debug\Approach1.Infrastructure.Data.pdb
+D:\Prady\RoughPad\Approach1\Infrastructure\Approach1.Infrastructure.Service\bin\Debug\EntityFramework.xml
